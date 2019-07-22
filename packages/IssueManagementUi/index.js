@@ -1,0 +1,1 @@
+export default IM = require("@mdsol/issue_management_ui")
