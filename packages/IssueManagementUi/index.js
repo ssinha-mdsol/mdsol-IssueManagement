@@ -1,1 +1,1 @@
-export default IM = require("@mdsol/issue_management_ui")
+export default IM = require("@mdsol/issue_management_ui/src")
