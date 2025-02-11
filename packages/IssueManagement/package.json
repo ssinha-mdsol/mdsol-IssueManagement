@@ -13,7 +13,7 @@
   "dependencies": {
     "IssueManagementUi": "1.0.0",
     "react": "^16.8.6",
-    "webpack": "^4.36.1"
+    "webpack": "^5.97.1"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
